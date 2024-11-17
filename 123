@@ -10,10 +10,7 @@ namespace HelloWorld
         Console.WriteLine("X-200=500");
         Console.WriteLine("X=500+200");
         Console.WriteLine("X=700");
-        
-        
-        
-        
+  
     }
   }
 }
